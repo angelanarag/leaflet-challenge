@@ -16,12 +16,3 @@ This challenge is to build a way to visualize the United States Geological Surve
 7. Include popups that provide additional information about the earthquake when its associated marker is clicked.
 8. Include a legend that will provide context for the map data.
 
-
-Below is optional and not included in the submitted code.
-1. Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. 
-2. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplates
-3. Plot the tectonic plates dataset on the map in addition to the earthquakes.
-4. Add other base maps to choose from.
-5. Put each dataset into separate overlays that can be turned on and off independently.
-6. Add layer controls to your map.
-
