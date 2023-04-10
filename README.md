@@ -16,3 +16,4 @@ This challenge is to build a way to visualize the United States Geological Surve
 7. Include popups that provide additional information about the earthquake when its associated marker is clicked.
 8. Include a legend that will provide context for the map data.
 
+See final app: https://angelanarag.github.io/leaflet-challenge/
